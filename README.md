@@ -1,9 +1,8 @@
-    # LEARNING GIT AND GITHUB
-    This repo is for my own on how to use Git & Github.
+# LEARNING GIT & GITHUB
 
-    This course is organized by MyTalent, delivered by AGMO Academy.
+This repo is for my own learning on how to use Git and Github.
 
-    Some of the learnings
-    * `git knit`
-    * `git add`
-    * `git commit -m`
+Some of the learnings:
+* `git init`
+* `git add .`
+* `git commit -m`
